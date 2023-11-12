@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const additionalParams = {
             headers: {
               'Content-Type': 'application/octet-stream', // Set the correct content type
-              'x-api-key': 'passworddxddrowssap233333v11',
+              'x-api-key': API_KEY,
             },
           };
         

@@ -8,7 +8,7 @@ function callGetApi(query) {
 
     const additionalParams = {
         headers: {
-            'x-api-key': 'passworddxddrowssap233333v11',
+            'x-api-key': API_KEY,
         }
       };
 
